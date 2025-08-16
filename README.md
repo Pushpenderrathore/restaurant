@@ -4,7 +4,7 @@
 ![Margherita](/assets/aurelien-lemasson-theobald-x00CzBt4Dfk-unsplash.jpg)  
 **Margherita Pizza** – ₹199  
 
-![Farmhouse](https://example.com/farmhouse.jpg)  
+![Farmhouse](/assets/FRRBNUKKA5CV891-871117582.jpg)  
 **Farmhouse Pizza** – ₹299  
 
 ---
