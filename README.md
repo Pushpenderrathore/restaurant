@@ -1,6 +1,6 @@
 # 🍕 Pizza Palace Menu
 
-## Pizzas
+## PIZZAS
 ![Margherita](/assets/aurelien-lemasson-theobald-x00CzBt4Dfk-unsplash.jpg)  
 **Margherita Pizza** – ₹199  
 
@@ -9,7 +9,7 @@
 
 ---
 
-## Burgers
+## BURGERS
 ![Veg Burger](/assets/13294_w1024h768c1cx2144cy1424-3306617375.jpg)  
 **Veg Burger** – ₹149  
 
