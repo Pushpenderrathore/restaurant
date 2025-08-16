@@ -10,9 +10,9 @@
 ---
 
 ## Burgers
-![Veg Burger](https://example.com/vegburger.jpg)  
+![Veg Burger](/assets/13294_w1024h768c1cx2144cy1424-3306617375.jpg)  
 **Veg Burger** – ₹149  
 
-![Cheese Burger](https://example.com/cheeseburger.jpg)  
+![Cheese Burger](/assets/IMG_9241.jpg)  
 **Cheese Burger** – ₹199  
 
