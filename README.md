@@ -1,7 +1,7 @@
 # 🍕 Pizza Palace Menu
 
 ## Pizzas
-![Margherita](https://example.com/margherita.jpg)  
+![Margherita](/assets/aurelien-lemasson-theobald-x00CzBt4Dfk-unsplash.jpg)  
 **Margherita Pizza** – ₹199  
 
 ![Farmhouse](https://example.com/farmhouse.jpg)  
